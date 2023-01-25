@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pollot96
 - 👀 I’m interested in full-stack
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently passionned by aeronotics and ThreeJS web developpement 
 - 💞️ I’m looking to collaborate on building software.
 - 📫 How to reach me yannickdelatour@gmail.com
 
